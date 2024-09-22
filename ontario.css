@@ -1,0 +1,154 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    margin:100px 200px ;                                                                                                                                            
+    font-family: poppins;
+    margin-right: 300px;
+}
+.front-page{
+    display: flex;
+    gap: 400px;
+}
+.first{
+    letter-spacing: 13px;
+    font-size: 26px;
+    color: rgba(114, 114, 206, 0.918);
+    font-family: sans-serif;
+    font-weight: 550;
+}
+.dikaya{
+    padding-left: 100px;
+    padding-bottom: 15px;
+    font-size: 10px;
+}
+.ontario-start h1{
+    color: rgb(1, 68, 1);
+    letter-spacing: 6px;
+}
+.nd-para{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 30px;
+    color: rgb(50, 50, 119);
+    padding-bottom: 30px;
+}
+.ontario-opposite span{
+    color: rgb(3, 3, 87);
+    font-size: 50px;
+}
+.passport-area{
+    line-height: 170px;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    border-color: black;
+    border-width: 1px;
+    border-style: groove;
+    margin-top: 20px;
+    font-size: 16px;
+    text-wrap: wrap;
+
+}
+.bio-data{
+    color: rgb(235, 106, 21);
+    font-size: 20px;
+    font-weight: bolder;
+}
+.surname{
+    padding-top: 13px;
+    display: flex;
+}
+.surname p{
+    padding-left: 20px;
+}
+.marital{
+    display: flex;
+    padding-top: 12px;
+    gap:33px;
+    font-weight: bold;
+}
+.marital-2{
+    display: flex;
+    margin-left: 20px;
+    gap: 20px;
+    
+}
+.other{
+    display: flex;
+    padding-left: 1px;
+}
+.affix-identical{
+    line-height: 270px;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    border-color: black;
+    border-width: 1px;
+    border-style: groove;
+    margin-top: 20px;
+    font-size: 20px;
+    margin-bottom: 90px;
+    margin-right: 10px;
+}
+.ontario-sec h3{
+    padding-left: 70px;
+    font-size: 10px;
+
+}
+.ontario-sec h1{
+    color:  rgb(1, 68, 1) ;
+}
+.property-information{
+    padding-top: 60px;
+}
+.property-information h3{
+    color: coral;
+}
+.plot-1{
+    display: flex;
+    align-items: center;
+}
+.plot-1 input{
+    margin:0 12px;
+    
+
+}
+.property-items{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.units{
+    display: flex;
+}
+.property-info{
+    padding-bottom: 5px;
+}
+.property-info-2{
+    display: flex;
+}
+.property-info h3{
+    color: coral;
+    text-transform: uppercase;
+}
+.attestation{
+    color: coral;
+    padding-top: 20px;
+}
+.salesrep-bio{
+    color: coral;
+    padding-top: 50px;
+}
+.third-page{
+    display: flex;
+    gap: 400px;
+    margin-top: 60px;
+}
+.customer-copy{
+    font-size: 22px;
+}
+
